@@ -22,3 +22,4 @@ quicksort(int*array, int front, int end){
 	}
 } 
 ```
+## Let Us Talk About the Bubble sort
